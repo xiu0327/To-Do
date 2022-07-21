@@ -1,8 +1,7 @@
 # To-Do
 React, Spring Boot, MariaDB를 활용한 To Do 앱 구현
 
-<img width="455" alt="스크린샷 2022-07-21 오후 10 26 14" src="https://user-images.githubusercontent.com/78461009/180224926-bf197861-804b-44e4-964f-8b80edc31b3a.png">
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/78461009/180227883-9b8a8de0-ff49-4d3f-90bb-6ab607430d84.gif)
 
 To-Do 앱 BackEnd 구현 : https://www.notion.so/To-Do-BE-f9edee2766c847e4b0e1327102bd8f24
 
